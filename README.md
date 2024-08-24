@@ -28,7 +28,7 @@
     1. オブジェクト指向の概念
         1. [クラスとオブジェクト](./01_OOP/01_Object-OrientedConcepts/01_Class_and_Object.ipynb)
         1. [カプセル化](./01_OOP/01_Object-OrientedConcepts/02_Encapsulation.ipynb)
-        1. 継承
+        1. [継承](./01_OOP/01_Object-OrientedConcepts/03_Inheritance.ipynb)
         1. ポリモーフィズム 
     1. オブジェクト指向設計の原則
         1. SOLID原則
