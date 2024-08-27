@@ -32,7 +32,7 @@
         1. [ポリモーフィズム](./01_OOP/01_Object-OrientedConcepts/04_Polymorphism.ipynb) 
     1. オブジェクト指向設計の原則
         1. [SOLID原則](./01_OOP/02_Object-OrientedDesignPrinciples/01_SOLID_Principles.ipynb)
-        1. デザインパターン入門
+        1. [デザインパターン入門](./01_OOP/02_Object-OrientedDesignPrinciples/02_Design_Pattern.ipynb)
 1. C#の基本
     1. C#の基本構文
         1. 変数と定数
