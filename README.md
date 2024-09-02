@@ -35,7 +35,7 @@
         1. [デザインパターン入門](./01_OOP/02_Object-OrientedDesignPrinciples/02_Design_Pattern.ipynb)
 1. C#の基本
     1. C#の基本構文
-        1. 変数と定数
+        1. [変数と定数](./02_CSharpBasic/01_CSharp_BasicSyntax/01_CSharp_Variables_and_Constants.ipynb)
         1. データ型
         1. 制御構造（if文、各種ループ）
         1. メソッド
