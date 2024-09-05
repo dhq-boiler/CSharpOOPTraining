@@ -37,7 +37,7 @@
     1. C#の基本構文
         1. [変数と定数](./02_CSharpBasic/01_CSharp_BasicSyntax/01_CSharp_Variables_and_Constants.ipynb)
         1. [データ型](./02_CSharpBasic/01_CSharp_BasicSyntax/02_Data_Type.ipynb)
-        1. 制御構造（if文、各種ループ）
+        1. [制御構造（if文、各種ループ）](./02_CSharpBasic/01_CSharp_BasicSyntax/03_Control_Structures.ipynb)
         1. メソッド
     1. C#のオブジェクト指向機能
         1. クラストオブジェクトの作成
