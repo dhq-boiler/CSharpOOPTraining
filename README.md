@@ -40,7 +40,7 @@
         1. [制御構造（if文、各種ループ）](./02_CSharpBasic/01_CSharp_BasicSyntax/03_Control_Structures.ipynb)
         1. [メソッド](./02_CSharpBasic/01_CSharp_BasicSyntax/04_Methods.ipynb)
     1. C#のオブジェクト指向機能
-        1. クラストオブジェクトの作成
+        1. [クラストオブジェクトの作成](./02_CSharpBasic/02_Object-oriented_features_of_C#/01_Creating_class_object.ipynb)
         1. コンストラクタとデストラクタ
         1. プロパティとアクセサ
         1. 静的メンバー
