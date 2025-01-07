@@ -2,7 +2,7 @@
 
 ## はじめに
 
-このキャンペーンは株式会社●●●●に在籍するC#エンジニアが、オブジェクト指向プログラミングとC#のスキルを向上させ、より高みを目指すために実施するものです。
+このキャンペーンは株式会社ラグザイアに在籍するC#エンジニアが、オブジェクト指向プログラミングとC#のスキルを向上させ、より高みを目指すために実施するものです。
 
 ## キャンペーンの目的
 
@@ -43,7 +43,7 @@
         1. [クラストオブジェクトの作成](./02_CSharpBasic/02_Object-oriented_features_of_C#/01_Creating_class_object.ipynb)
         1. [コンストラクタとファイナライザー](./02_CSharpBasic/02_Object-oriented_features_of_C#/02_Constructor_and_Finalizer.ipynb)
         1. [プロパティとアクセサ](./02_CSharpBasic/02_Object-oriented_features_of_C#/03_Property_and_Accessor.ipynb)
-        1. 静的メンバー
+        1. [静的メンバー](./02_CSharpBasic/02_Object-oriented_features_of_C#/04_Static_member.ipynb)
 1. C#の中級概念
     1. 継承と多態性
         1. 基底クラスと派生クラス
