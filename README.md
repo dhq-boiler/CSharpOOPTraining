@@ -40,10 +40,10 @@
         1. [制御構造（if文、各種ループ）](./02_CSharpBasic/01_CSharp_BasicSyntax/03_Control_Structures.ipynb)
         1. [メソッド](./02_CSharpBasic/01_CSharp_BasicSyntax/04_Methods.ipynb)
     1. C#のオブジェクト指向機能
-        1. [クラストオブジェクトの作成](./02_CSharpBasic/02_Object-oriented_features_of_C#/01_Creating_class_object.ipynb)
-        1. [コンストラクタとファイナライザー](./02_CSharpBasic/02_Object-oriented_features_of_C#/02_Constructor_and_Finalizer.ipynb)
-        1. [プロパティとアクセサ](./02_CSharpBasic/02_Object-oriented_features_of_C#/03_Property_and_Accessor.ipynb)
-        1. [静的メンバー](./02_CSharpBasic/02_Object-oriented_features_of_C#/04_Static_member.ipynb)
+        1. [クラストオブジェクトの作成](./02_CSharpBasic/02_Object-oriented_features_of_CSharp/01_Creating_class_object.ipynb)
+        1. [コンストラクタとファイナライザー](./02_CSharpBasic/02_Object-oriented_features_of_CSharp/02_Constructor_and_Finalizer.ipynb)
+        1. [プロパティとアクセサ](./02_CSharpBasic/02_Object-oriented_features_of_CSharp/03_Property_and_Accessor.ipynb)
+        1. [静的メンバー](./02_CSharpBasic/02_Object-oriented_features_of_CSharp/04_Static_member.ipynb)
 1. C#の中級概念
     1. 継承と多態性
         1. 基底クラスと派生クラス
